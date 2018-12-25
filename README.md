@@ -1,1 +1,1 @@
-java
+Error Detection And Correction is a java based project used for detecting error bit and correcting them . EDC work on Transmission control protocol.Socket programming is used for making connection and doing communication between client and server .
